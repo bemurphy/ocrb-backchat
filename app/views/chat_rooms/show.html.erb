@@ -1,0 +1,7 @@
+<% content_for :javascript do %>
+  var pusher = new Pusher('46f270cfe2700ef617aa');
+  var myChannel = pusher.subscribe('chat');
+<% end -%>
+
+<ul id="messages">
+</ul>

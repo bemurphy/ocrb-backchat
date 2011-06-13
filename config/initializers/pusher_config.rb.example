@@ -1,0 +1,5 @@
+# copy to pusher_config.rb and input you API info
+
+Pusher.app_id = '1234'
+Pusher.key = '88f27fc7d2777bf617fa'
+Pusher.secret = '78c61816437d24f48c3f'

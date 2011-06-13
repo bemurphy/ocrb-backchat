@@ -1,0 +1,20 @@
+body {
+  font-family: 'Lucida Grande', Tahoma, Arial, sans-serif;
+  font-size: 12px;
+}
+
+ul#messages {
+  width: 60%;
+  padding: 10px;
+  border: 1px solid #cacaca;
+  height: 100px;
+  list-style-type: none;
+  overflow: auto;
+}
+
+li.message {
+}
+
+span.username {
+  font-weight: bold;
+}
